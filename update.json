@@ -2,12 +2,12 @@
   "versionCode": 7,
   "versionName": "1.6.0",
   "releaseDate": "۱۴۰۵/۰۵/۰۳",
-  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v1.5.0/shiftkar-v1.5.0.apk",
+  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v1.6.0/shiftkar-v1.6.0.apk",
   "isForceUpdate": false,
   "changelog": [
-    "قابلیت جدید بررسی و نصب بروزرسانی درون برنامه‌ای",
-    "پوسته تاریک شیک و یکدست به سبک اندروید",
-    "بهبود سرعت و روانی حرکت در تقویم و شیفت‌ها",
+    "قابلیت جدید نمایش شیفت به صورت جدول",
+    "بروزرسانی لوحه",
+    "بهبود سرعت نرم افزار و کاهش حجم",
     "برطرف‌سازی ایرادات جزئی و بهبود پایداری"
   ]
 }
