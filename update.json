@@ -1,14 +1,15 @@
 {
-  "versionCode": 57,
-  "versionName": "5.7.0",
-  "releaseDate": "۱۴۰۵/۰۵/۰۳",
-  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v5.7.0/shiftkar-v5.7.0.apk",
-  "isForceUpdate": false,
+  "versionCode": 58,
+  "versionName": "5.8.4",
+  "releaseDate": "۱۴۰۵/۰۵/۱۶",
+  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v5.8.4/shiftkar-v5.8.4.apk",
+  "isForceUpdate": enable,
   "changelog": [
-    "قابلیت جدید نمایش شیفت به صورت جدول",
-    "بروزرسانی لوحه",
-     "بهبود بخش یادداشت ها و افزودن بخش مدیریت یادداشت ها",
-    "بهبود سرعت نرم افزار و کاهش حجم",
-    "برطرف‌سازی ایرادات جزئی و بهبود پایداری"
+    "رفع مشکل نوتیفیکیشن آپدیت",
+    "کاهش ارتفاع بنر اصلی",
+     "بهبود بخش یادداشت ها",
+    "بهبود بخش نمایش شیفت کامل",
+    "حل مشکل خروج برنامه",
+    "رفع ایرادات جزئی و بهبود پایداری"
   ]
 }
