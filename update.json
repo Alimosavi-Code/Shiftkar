@@ -1,15 +1,12 @@
 {
-  "versionCode": 58,
-  "versionName": "5.8.4",
+  "versionCode": 59,
+  "versionName": "5.8.5",
   "releaseDate": "۱۴۰۵/۰۵/۱۶",
-  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v5.8.4/shiftkar-v5.8.4.apk",
+  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v5.8.5/shiftkar-v5.8.5.apk",
   "isForceUpdate": enable,
   "changelog": [
-    "رفع مشکل نوتیفیکیشن آپدیت",
+    "بازطراحی ایکون برنامه",
     "کاهش ارتفاع بنر اصلی",
-     "بهبود بخش یادداشت ها",
-    "بهبود بخش نمایش شیفت کامل",
-    "حل مشکل خروج برنامه",
     "رفع ایرادات جزئی و بهبود پایداری"
   ]
 }
