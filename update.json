@@ -1,12 +1,12 @@
 {
-  "versionCode": 62,
-  "versionName": "5.9.1",
-  "releaseDate": "۱۴۰۵/۰۵/۱۶",
-  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/latest/download/shiftkar-v5.9.1.apk",
-  "isForceUpdate": enable,
+  "versionCode": 63,
+  "versionName": "6.0.3",
+  "downloadUrl": "https://github.com/seyedalimosavi/shiftkar/releases/download/v6.0.3/shiftkar-v6.0.3.apk",
+  "isForceUpdate": false,
+  "releaseDate": "۱۴۰۵/۰۸/۰۴",
   "changelog": [
-    "بازطراحی ایکون برنامه",
-    "کاهش ارتفاع بنر اصلی",
-    "رفع ایرادات جزئی و بهبود پایداری"
+    "آیکون اسپلش و لوگوی داخل برنامه با آیکون جدید (چرخهٔ روز/شب) هماهنگ شدند — دیگر طرح قدیمی بنفش در صفحهٔ شروع دیده نمی‌شود",
+    "پس‌زمینهٔ نوار پایین کدرتر شد (آلفای ۰٫۹۴) — دیگر متنِ محتوای زیر نوار از داخل آن دیده نمی‌شود؛ شکل و خط دور دست‌نخورده ماند",
+    "رفع تداخل نوار پایین با محتوا — آخرین ردیف‌های تقویم و جدول حالا می‌توانند از زیر نوار رد شوند"
   ]
 }
