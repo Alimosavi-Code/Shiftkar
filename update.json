@@ -1,17 +1,12 @@
 {
   "versionName": "6.6.0",
   "versionCode": 76,
-  "minSupportedVersion": "6.0.0",
   "releaseDate": "1405/08/15",
-  "title": "بروزرسانی شیفت‌کار ۶.۶.۰",
+  "isForceUpdate": false,
+  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v6.6.0/shiftKar-v6.6.0.apk",
   "changelog": [
     "افزودن بخش «گزارش کارکرد» در تب مدیریت شیفت (محاسبه خودکار ساعت اضافه‌کاری، روزهای کاری، جمعه‌کاری، تعطیل‌کاری و خروجی تصویری PNG فیش کارکرد)",
     "طراحی جدید آیکون پیش‌اسپلش سیستم با پشتیبانی از حالت روشن و تاریک و رفع سایه پشت آیکون تقویم در صفحه آغازین",
     "هماهنگ‌سازی کامل رنگ خطوط مداری صفحه آغازین با گرادیان چهار حالت شیفت (صبح‌کار، عصرکار، شب‌کار و استراحت)"
-  ],
-  "mandatory": false,
-  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v6.6.0/shiftKar-v6.6.0.apk",
-  "apkUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v6.6.0/shiftKar-v6.6.0.apk",
-  "pageUrl": "https://github.com/Alimosavi-Code/shiftkar/releases/latest",
-  "sha256": "befa4a197b3d7b6c46c97f268411650d58af5e17070b2405c1a55fb6156474d8"
+  ]
 }
